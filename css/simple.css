@@ -1,0 +1,37 @@
+.container {
+    width:1000px;
+}
+
+.left-content{
+    width:70%;
+    height:500px;
+    float: left;
+}
+
+.upper-content{
+    
+    padding-left:30px;
+    padding-bottom:30px;
+}
+
+.avartar{
+    width:100px;
+    height:100px;
+    border-radius:30px;
+    display:
+}
+
+.right-content{
+
+    width:30%;
+    height:500px;
+    float:right;
+    vertical-align: top;
+}
+
+img {
+    margin-top:80px;
+    width:300px;
+    height:300px;
+    object-fit:contain; 
+} 
