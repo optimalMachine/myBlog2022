@@ -4,6 +4,15 @@
     margin-right: auto;
 }
 
+.navbar>li {
+    display:inline-block;
+}
+
+.navbar a {
+    font-size:20px;
+    text-decoration: none;
+}
+
 .blog-profile{
     width:50px;
     float: left;
@@ -25,7 +34,7 @@
     float:left;
 }
 
-.blog-content-below{
-    clear:both;
-}
+
+
+
 
